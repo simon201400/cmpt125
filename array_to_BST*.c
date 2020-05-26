@@ -9,7 +9,6 @@ that returns 1 if d1 > d2, returns -1 if d1 <= d2.
 A function array_to_BST() that gets an array of N elements of some_data, 
 and creates a BST containing all the elements, where the items are compared using the function compare_data().
 Prove that the running time of array_to_BST() must be at least Nlog(N)*/
-//不会写
 
 BST_t* array_to_BST(some_data arr[n])
 {
